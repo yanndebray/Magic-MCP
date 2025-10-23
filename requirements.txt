@@ -1,0 +1,4 @@
+fastmcp>=2.12.5
+pydantic
+numpy>=1.26.0
+requests>=2.31.0
