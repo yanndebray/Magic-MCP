@@ -1,0 +1,14 @@
+[project]
+name = "magic-mcp"
+version = "0.1.0"
+description = "Magic MCP Server"
+readme = "README.md"
+requires-python = ">=3.13"
+authors = [{ name = "Yann" }]
+keywords = ["mcp", "llm", "alpic", "python"]
+dependencies = [
+    "pydantic",
+    "mcp",
+    "numpy",
+    "requests",
+]
