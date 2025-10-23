@@ -41,9 +41,16 @@ Magic square function exposed as MCP server 🪄✨
    square and the raw metadata returned by the upstream service.
 
 
-## ChatGPT connector Set-up
+## ChatGPT connector
 
 
 ![add-conn](img/chatgpt-connector.png)
 
 ![info-conn](img/chatgpt-connector-1.png)
+
+![echo-conn](img/chatgpt-connector-4.png)
+
+
+## Mistral connector 
+
+![lechat-conn](img/lechat-connector.png)
