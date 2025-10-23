@@ -2,7 +2,9 @@
 
 Magic square function exposed as MCP server 🪄✨
 
-![claude](img/claude.png)
+![call-conn](img/chatgpt-connector-2.png)
+
+![result-conn](img/chatgpt-connector-3.png)
 
 ## Getting started
 
@@ -37,3 +39,11 @@ Magic square function exposed as MCP server 🪄✨
    `generate_magic_square` tool. Provide the desired square size (and optionally
    set `debug=true`) to receive a structured response containing both the magic
    square and the raw metadata returned by the upstream service.
+
+
+## ChatGPT connector Set-up
+
+
+![add-conn](img/chatgpt-connector.png)
+
+![info-conn](img/chatgpt-connector-1.png)
